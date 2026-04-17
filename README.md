@@ -45,7 +45,6 @@ desktop test:
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2834da11-3e11-408e-875e-6a258e71fc76" />
 
 
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
 link naar de wiki: https://github.com/scar055/performance-audit/wiki/ligh-house-test
 
 In de wiki onderzoek ik de website van dierenpark amersfoort of hun website performance problemen heeft. als je door de wiki heen gaat zie je dat het hooft probleem van de website ook al heeft het de core vital web assessment gehaald dat de content van de website net iets trager inlaad. vooral voor mobiel en omdat het grootste deel van de wereld nu het internet bezoekt met mobiel kan dit invloed hebben op de mensen die hun website bezoeken.
